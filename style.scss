@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(185, 180, 180);
+    font-size: 44px
+  }
+  
+  .wrapper {
+      display: flex;
+      height: 100vh;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      
+  }
+  
+  .wrapper h2 {
+    margin: 0;
+  }
+  #break-length {
+    font-size: 35px;
+  }
+  #session-length {
+    font-size: 35px;
+  }
+  .break-session-length {
+      display: flex;
+      width: 700px;
+      justify-content: space-between;
+  }
+  
+  button {
+    border: none;
+    padding: 8px;
+    font-size: 50px;
+    border-radius: 4px;
+  }
+  
+  div > button {
+    color: white;
+    
+  }
+
+  #time-left{
+    margin: 50px;
+  }
+
+  
+  strong {
+    margin: 0 8px;
+  }
+  
+  .timer {
+    align-content: center;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px 0;
+    padding-top: 10px;
+  }
+  
+  .timer-wrapper > button {
+    margin-left: 10px
+    
+  }
+
+
+  .break-number{
+    margin-left: 60px;
+  }
+
+  .session-number{
+    margin-left: 60px;
+  }
+
+
+  /* timer ring */
