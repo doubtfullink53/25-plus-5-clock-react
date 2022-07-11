@@ -6,4 +6,4 @@ Project #5 : Free Code Camp Front End Development Libraries Projects
  
 
 
-View project at : https://doubtfullink53.github.io/25-plus-5-clock-react-tutorial/
+View project at : https://doubtfullink53.github.io/25-plus-5-clock-react/
